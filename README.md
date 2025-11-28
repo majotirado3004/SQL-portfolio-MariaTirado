@@ -22,6 +22,6 @@ The project used PostgreSQL and covered:
 You will find a selection of my most relevant SQL queries inside the `/queries` folder.  
 These demonstrate my ability to write clean, professional SQL for business analytics.
 
-## 📊 Additional Resources
+## 📊 Visuals
 - Tableau report: https://public.tableau.com/views/RockBusterProject/RockBuster?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
